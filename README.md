@@ -17,6 +17,7 @@
     <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA"/>
 
 </div>
+
 #### Conhecimento gerais, autodidata e hobbies:
 <div style="display: inline_block"> 
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt "PSD"/>
